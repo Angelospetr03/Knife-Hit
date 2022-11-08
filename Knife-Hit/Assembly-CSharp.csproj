@@ -53,8 +53,8 @@
     <UnityVersion>2020.3.5f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\CircleSO.cs" />
     <Compile Include="Assets\Scripts\Circle.cs" />
+    <Compile Include="Assets\Scripts\CircleSO.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
